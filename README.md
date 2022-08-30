@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot of solution
 
-![](./images/mobile%20view%20qr%20challenge.png)
-![](./images/Screenshot%202022-08-30%20225211.png)
+![](./mobile%20view%20qr%20challenge.png)
+![](./Screenshot%202022-08-30%20225211.png)
 
 
 ### Links
